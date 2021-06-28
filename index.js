@@ -1,8 +1,16 @@
-// const genReadMe = require("./generateMarkdown")
+const genReadMe = require("./genReadMe")
 const inquirer = require("inquirer")
+const fs = require("fs")
+const path = require("path")
+
+// function that writes user input to a file 
+function writeToFile(fileName, data) {
+    //
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
+}
 
 // QUESTIONS FOR USER TO ANSWER
-inquirer.prompt([
+const questions = [
 {   
     type: "input",
     name: "title",
@@ -57,15 +65,29 @@ inquirer.prompt([
     message: "Choose your license:",
     choices: [
         "MIT",
-        "GPL 2.0",
+        "GPL",
         "Apache",
-        "BSD",
-        "IBM",
-        "ISC",
-        "None"
+        "MPL",
+        "BSL",
+        "Unlicense"
     ]
 },
 
-]).then(answers => {
-    console.log(answers)
-})
+]
+
+
+// function to write README file
+function writeToReadMe(fileName, data) {
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data)
+}
+
+// function to 
+function init() {
+    inquirer.prompt(questions)
+    .then(response => {
+    writeToReadMe("README.md", genReadMe(response))
+    })
+}
+
+init();
+
