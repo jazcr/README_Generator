@@ -6,12 +6,12 @@ function genReadMe(data) {
 
 ## Table of Contents: 
 
-*  [Description](#description)
-*  [Installation](#install)
-*  [Usage](#usage)
-*  [Contributing](#contributing)
-*  [Tests](#tests)
-*  [Questions](#questions)
+*  [Description](#scroll-description)
+*  [Installation](#man_mechanic-installation)
+*  [Usage](#book-usage-info)
+*  [Contributing](#couple-contributors)
+*  [Tests](#woman-scientist-tests)
+*  [Questions](#-questions)
 *  [License](#license)
 
 ## :scroll: Description: 

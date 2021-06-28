@@ -3,16 +3,16 @@
 
 [![License](https://img.shields.io/badge/License-Unlicense%20-blue.svg)](https://opensource.org/licenses/Unlicense)
 
-![Screenshot of CLI](./images/Capture.jpg)
+![Screenshot of CLI](https://github.com/jazcr/README_Generator/blob/d8eb848445a56ac900e0670d24d6e6823e2cb184/images/Capture.JPG)
 
 ## Table of Contents: 
 
-*  [Description](#description)
-*  [Installation](#install)
-*  [Usage](#usage)
-*  [Contributing](#contributing)
-*  [Tests](#tests)
-*  [Questions](#questions)
+*  [Description](#scroll-Description)
+*  [Installation](#man_mechanic-Installation)
+*  [Usage](#book-Usage-Info)
+*  [Contributing](#couple-Contributors)
+*  [Tests](#woman-scientist-Tests)
+*  [Questions](#-questions)
 *  [License](#license)
 
 ## :scroll: Description: 
@@ -44,5 +44,3 @@ Email: [jazcrudolph@gmail.com](jazcrudolph@gmail.com)
 ## License:
 [Unlicense](https://opensource.org/licenses)<br>
 CLICK TO VIEW TERMS AND CONDITIONS OF ALL OPEN SOURCE LICENSES.
-
-
