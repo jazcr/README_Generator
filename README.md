@@ -5,6 +5,12 @@
 
 ![Screenshot of CLI](https://github.com/jazcr/README_Generator/blob/35bff63a9cc7b09c176bf751953c40268d3b9ec6/images/Capture.JPG)
 ![GIF of Generated README](https://github.com/jazcr/README_Generator/blob/b80dc3dd08659405be37642b26e059b35aa409e4/images/READMEgif.gif)
+  
+<br>  
+<br> 
+
+#### [Link to Walkthrough Video](https://youtu.be/wRs2J_hoyAw)
+<br>
 
 ## Table of Contents: 
 *  [Description](#scroll-description)
