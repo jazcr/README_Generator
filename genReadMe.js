@@ -10,7 +10,7 @@ function genReadMe(data) {
 *  [Installation](#man_mechanic-installation)
 *  [Usage](#book-usage-info)
 *  [Contributing](#couple-contributors)
-*  [Tests](#woman-scientist-tests)
+*  [Tests](#woman_scientist-tests)
 *  [Questions](#-questions)
 *  [License](#license)
 
