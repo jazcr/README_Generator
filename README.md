@@ -3,17 +3,17 @@
 
 [![License](https://img.shields.io/badge/License-Unlicense%20-blue.svg)](https://opensource.org/licenses/Unlicense)
 
-![Screenshot of CLI](./images/Capture.jpg)
+![Screenshot of CLI](https://github.com/jazcr/README_Generator/blob/35bff63a9cc7b09c176bf751953c40268d3b9ec6/images/Capture.JPG)
 
 ## Table of Contents: 
 
-*  [Description](#description)
-*  [Installation](#install)
-*  [Usage](#usage)
-*  [Contributing](#contributing)
-*  [Tests](#tests)
-*  [Questions](#questions)
-*  [License](#license)
+*  [Description](#Description)
+*  [Installation](#Install)
+*  [Usage](#Usage)
+*  [Contributing](#Contributing)
+*  [Tests](#Tests)
+*  [Questions](#Questions)
+*  [License](#License)
 
 ## :scroll: Description: 
 
