@@ -1,19 +1,21 @@
 
-# README Generator
+# :printer: README Generator
 
 [![License](https://img.shields.io/badge/License-Unlicense%20-blue.svg)](https://opensource.org/licenses/Unlicense)
 
 ![Screenshot of CLI](https://github.com/jazcr/README_Generator/blob/35bff63a9cc7b09c176bf751953c40268d3b9ec6/images/Capture.JPG)
+![GIF of Generated README](https://github.com/jazcr/README_Generator/blob/b80dc3dd08659405be37642b26e059b35aa409e4/images/READMEgif.gif)
 
 ## Table of Contents: 
 *  [Description](#scroll-description)
 *  [Installation](#man_mechanic-installation)
 *  [Usage](#book-usage-info)
 *  [Contributing](#couple-contributors)
-*  [Tests](#woman-scientist-tests)
+*  [Tests](#woman_scientist-tests)
 *  [Questions](#-questions)
 *  [License](#license)
-*  
+
+
 ## :scroll: Description: 
 
 Do you find yourself spending too much time formatting README files? Same here! Luckily, this README Generator was designed to help eliminate some of those tedious steps. This very README that you are reading was created with this simple app! 
